@@ -1,0 +1,9 @@
+Oringin_foods=("pizza","apple","china foods","tomato")
+
+for Oringin_food in Oringin_foods:
+	print(Oringin_food)
+print("\n")
+
+New_foods=("pizza","apple","china foods")
+for New_food in New_foods:
+	print(New_food)
